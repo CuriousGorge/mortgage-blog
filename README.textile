@@ -6,4 +6,4 @@ This is the layout used for the MortgageBloom "Mortgage Blog":http://mortgageblo
 
 We use "Jekyll":http://jekyllrb.com/ to generate the blog from this layout. 
 
-Feel free to use it whatever way you like.
+Feel free to use it whatever way you like. 
