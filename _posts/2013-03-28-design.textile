@@ -20,9 +20,12 @@ h1. Tables
 | Jakarta | Great |
 
 <hr class="pbreak" />
+
 h1. Divider
+
 <hr class="pbreak" />
 <hr class="pbreak" />
+
 h1. Subsection Anchors
 
 "See example":#textsection
