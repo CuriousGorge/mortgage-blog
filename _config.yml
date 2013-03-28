@@ -6,9 +6,9 @@ baseurl:    /blog
 url: http://localhost:4000
 
 source:      .
-destination: ../src/blog
+destination: output
 plugins:     ./_plugins
-exclude: newpost.rb
+exclude: newpost.rb output
 
 future:      false 
 lsi:         false 

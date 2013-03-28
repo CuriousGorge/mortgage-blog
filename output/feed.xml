@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title></title>
+		<description></description>
+		<link>http://localhost:4000</link>
+		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Design Sample</title>
+				<description>&lt;h1&gt;&lt;a class=&quot;anchored&quot; name=&quot;textsection&quot;&gt;Text&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;Normal Text&lt;br /&gt;
+&lt;em&gt;Italic Text&lt;/em&gt;&lt;br /&gt;
+&lt;strong&gt;Bold Text&lt;/strong&gt;&lt;/p&gt;
+&lt;hr class=&quot;pbreak&quot; /&gt;
+&lt;h1&gt;Tables&lt;/h1&gt;
+&lt;table&gt;
+	&lt;tr&gt;
+		&lt;td&gt; &lt;strong&gt;City&lt;/strong&gt; &lt;/td&gt;
+		&lt;td&gt; &lt;strong&gt;Weather&lt;/strong&gt; &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; San Francisco &lt;/td&gt;
+		&lt;td&gt; Good &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Miami &lt;/td&gt;
+		&lt;td&gt; Great &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; New York &lt;/td&gt;
+		&lt;td&gt; Ok &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt; Jakarta &lt;/td&gt;
+		&lt;td&gt; Great &lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;hr class=&quot;pbreak&quot; /&gt;
+&lt;h1&gt;Divider&lt;/h1&gt;
+&lt;hr class=&quot;pbreak&quot; /&gt;
+&lt;hr class=&quot;pbreak&quot; /&gt;
+&lt;h1&gt;Subsection Anchors&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;#textsection&quot;&gt;See example&lt;/a&gt;&lt;/p&gt;
+&lt;hr class=&quot;pbreak&quot; /&gt;
+&lt;h1&gt;Paragraph&lt;/h1&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce iaculis lobortis vestibulum. Pellentesque quis est nec orci sollicitudin blandit. Etiam non rhoncus lacus. Sed ut lectus eros. Vestibulum in lacus orci, ac auctor urna. Quisque sed augue lorem. Nullam metus lacus, elementum vel mattis at, auctor id eros. Suspendisse malesuada feugiat orci non congue. Cras semper feugiat convallis. Sed eget nibh leo. Mauris accumsan cursus feugiat. Maecenas in diam eget risus mollis tincidunt. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque id nulla augue. Pellentesque at est et tortor posuere lacinia. Proin lobortis purus quis urna rutrum eu mattis mauris lobortis.&lt;/p&gt;</description>
+				<pubDate>Thu, 28 Mar 2013 00:00:00 -0700</pubDate>
+				<link>http://localhost:4000/design</link>
+				<guid isPermaLink="true">http://localhost:4000/design</guid>
+			</item>
+		
+	</channel>
+</rss>
