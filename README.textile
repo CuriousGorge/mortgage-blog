@@ -4,6 +4,8 @@ layout: none
 
 This is the layout used for the MortgageBloom "Mortgage Blog":http://mortgagebloom.com/blog.
 
+See the "style guide":http://nikhilbobb.github.com/mortgage-blog/design/ to get an idea how it looks.
+
 We use "Jekyll":http://jekyllrb.com/ to generate the blog from this layout. 
 
 Feel free to use it whatever way you like. 
