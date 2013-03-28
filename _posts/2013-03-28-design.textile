@@ -1,0 +1,28 @@
+---
+layout: post
+title: Design Sample
+description: I show a few styles used in this blog template.
+---
+h1. <a class="anchored" name="textsection">Text</a>
+
+Normal Text
+_Italic Text_
+*Bold Text*
+
+<hr class="pbreak" />
+
+h1. Tables
+
+| *City* | *Weather* |
+| San Francisco | Good |
+| Miami | Great |
+| New York | Ok |
+| Jakarta | Great |
+
+<hr class="pbreak" />
+h1. Divider
+<hr class="pbreak" />
+<hr class="pbreak" />
+h1. Subsection Anchors
+
+"See example":#textsection
